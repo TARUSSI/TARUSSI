@@ -36,8 +36,8 @@
 
   <h3> 📈 Github Stats </h3>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARUSSI&theme=tokyonight"> 
-  <br>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARUSSI&theme=tokyonight">  -->
+<!--   <br> -->
   <img src="https://github-readme-stats.vercel.app/api?username=TARUSSI&theme=tokyonight">
 
 </div>
